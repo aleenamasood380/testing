@@ -64,6 +64,4 @@ list.reverse()
 
 print("reversed list: ", list)
 
-# ------------------------------------------------------
 
-print(list)
