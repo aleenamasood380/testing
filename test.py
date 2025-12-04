@@ -28,7 +28,7 @@ userInput = input(" enter an alphabet to remove: ")
 toRemove = next(item for item in list if item["alphabet"] == userInput)
 list.remove(toRemove)
 print("removed successfully")
-print(list)
+
 
 # ------------------------------------------------------
 
@@ -60,4 +60,5 @@ print("removed:", toRemove)
 # -----------------------------------------------------
 
 list.reverse()
+
 print("reversed list: ", list)
