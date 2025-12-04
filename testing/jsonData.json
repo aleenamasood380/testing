@@ -1,0 +1,21 @@
+{
+    "users": {
+        "3": {
+            "Name": "ALI",
+            "Department": "SQA"
+        },
+        "4": {
+            "Name": "Ayesha",
+            "Department": "Marketing"
+        },
+        "5": {
+            "Name": "Ramsha",
+            "Department": "IT"
+        },
+        
+        "6":{
+            "Name":"Zainab",
+            "Department" : "HR"
+        }
+    }
+}
